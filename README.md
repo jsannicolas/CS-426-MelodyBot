@@ -1,3 +1,5 @@
+# MelodyBot
+
 Project of UNR CSE Spring 2018
 
 CS 426
