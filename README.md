@@ -1,15 +1,12 @@
 ## MelodyBot
 
-Project of CS 426 Team 19
+Project of UNR Spring 2018 CS 426
 
-Team Members:
+### Team 19 Members:
 
 Nicholas Harris
-
 David Neilsen
-
 Joseph San Nicolas
-
 Stefan Stukelja
 
 
