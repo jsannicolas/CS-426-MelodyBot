@@ -1,7 +1,9 @@
-# CS_426-MelodyBot-Site
-# Website of CS 426 Project MelodyBot
+## MelodyBot
 
-## Team 19
+Project of CS 426 Team 19
+
+Team Members:
+
 Nicholas Harris
 
 David Neilsen
@@ -9,4 +11,6 @@ David Neilsen
 Joseph San Nicolas
 
 Stefan Stukelja
+
+
 
