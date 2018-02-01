@@ -1,6 +1,7 @@
 ## MelodyBot
 
-Project of UNR Spring 2018 CSE 
+Project of UNR CSE Spring 2018
+
 CS 426
 
 ### Team 19 Members:
