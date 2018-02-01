@@ -5,14 +5,14 @@ CS 426
 
 ### Team 19 Members:
 
-Nicholas Harris
-David Neilsen
-Joseph San Nicolas
-Stefan Stukelja
+`Nicholas Harris`
+`David Neilsen`
+`Joseph San Nicolas`
+`Stefan Stukelja`
 
 ### Instructors
-Sergiu Dascalu
-Devrin Lee
+`Sergiu Dascalu`
+`Devrin Lee`
 
 ### Extrenal Advisor
 Dave Feil-Seifer
