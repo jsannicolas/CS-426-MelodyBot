@@ -3,7 +3,10 @@
 
 ## Team 19
 Nicholas Harris
+
 David Neilsen
+
 Joseph San Nicolas
+
 Stefan Stukelja
 
