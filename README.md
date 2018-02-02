@@ -32,15 +32,15 @@ Currently, the neural network of MelodyBot prototype is able to generate music s
 
 ### Project Related Readings
 
-Generative Adversarial Networks (Paper)
+- Generative Adversarial Networks (Paper)
 https://arxiv.org/abs/1406.2661
 
-Improved Techniques for Training GANs (Paper)
+- Improved Techniques for Training GANs (Paper)
 https://arxiv.org/abs/1606.03498
 
-Language Generation with Recurrent Generative Adversarial Networks without Pre-training (Paper) 
+- Language Generation with Recurrent Generative Adversarial Networks without Pre-training (Paper) 
 https://arxiv.org/abs/1706.01399
 
-The Unreasonable Effectiveness of Recurrent Neural Networks (Blog Post) 
+- The Unreasonable Effectiveness of Recurrent Neural Networks (Blog Post) 
 http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
