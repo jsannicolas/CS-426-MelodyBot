@@ -36,6 +36,7 @@ Currently, the neural network of MelodyBot prototype is able to generate music s
 
 https://jsannicolas.github.io/CS-426-MelodyBot/Example-Audio-HTML/example-audio.html
 
+
 ### Project Related Readings
 
 - Virtual Music - Computer Synthesis of Musical Style by David Cope (Book)
