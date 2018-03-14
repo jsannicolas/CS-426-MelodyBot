@@ -32,6 +32,10 @@ The main purpose of MelodyBot is create a functional artificial intelligence whi
 
 Currently, the neural network of MelodyBot prototype is able to generate music samples that are musical notes that are played at random beats.  The music is now able to be played with three different instruments: piano, violin, and jazz guitar.  The samples that are created now are longer than before, now ranging from 30 seconds to over a minute.  The developers of MelodyBot also have created functioning user interface prototypes in Python and Visual Basic.  The current UI prototypes are able to load sound files in a viewable list, play and stop/pause said sound files, and remove the sound files from the list.  The team's next step in development is improving the machine learning of the neural network.  
 
+### Example Music Created By Neural Network
+
+https://jsannicolas.github.io/CS-426-MelodyBot/Example-Audio-HTML/example-audio.html
+
 ### Project Related Readings
 
 - Virtual Music - Computer Synthesis of Musical Style by David Cope (Book)
