@@ -14,7 +14,7 @@ layout: default
 
 #### Classical Violin
 
-![1](./Example-Audio-HTML/Violin/violinSample1.mp3)
+![1](CS-426-MelodyBot/Example-Audio-HTML/Violin/violinSample1.mp3)
 
 ![2](./Example-Audio-HTML/Violin/violinSample2.mp3)
 
