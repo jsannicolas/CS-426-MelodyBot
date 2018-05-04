@@ -26,7 +26,9 @@ The main purpose of MelodyBot is create a functional artificial intelligence whi
 
 Currently, the neural network of MelodyBot prototype is able to generate music samples that are musical notes that are played at random beats.  The neural network now have 5 models that it produces it samples based on: classical violin, jazz piano, blues guitar, Mozart piano, and Jimi Hendrix guitar.  Before, the samples could only be played with three different instruments: piano, violin, and guitar.  Now the samples can be played by 30+ different instruments, including: saxaphone, xylphone, etc.  The developers of MelodyBot also have created functioning user interface prototypes in Python and Visual Basic.  The current UI prototypes are able to load sound files in a viewable list, play and stop/pause said sound files, and remove the sound files from the list.  In addition, the team has made it possible for the user to choose the model of the sample, the tempo, the length, and the output instrument of the sample, all within the new and improved UI.  The team's next step in development is improving the machine learning of the neural network.  
 
-[Progress of MelodyBot](./progress.md)
+## Progress of MelodyBot
+
+[Click Here](./progress.md)
 
 ### Project Related Readings
 
