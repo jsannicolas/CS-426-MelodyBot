@@ -32,7 +32,15 @@ Currently, the neural network of MelodyBot prototype is able to generate music s
 
 ### Progress of MelodyBot
 
-[Click Here](./progress.md)
+#### Current User Interface
+
+![Main Menu](./Example-Audio-HTML/Pictures/MelodyBotMain.JPG)
+
+![Settings](./Example-Audio-HTML/Pictures/MelodyBotPref.JPG)
+
+#### Example Audio Files
+
+![Click Here](./Example-Audio-HTML/audio.html)
 
 ### Project Related Readings
 
