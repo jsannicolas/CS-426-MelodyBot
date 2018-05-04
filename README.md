@@ -1,6 +1,5 @@
 ---
 layout: default
-featured-img: /Example-Audio-HTML/Pictures/Logo.png
 ---
 
 ## Team 19 Members:
