@@ -1,3 +1,7 @@
+---
+layout: default
+title: MelodyBot
+---
 
 ## Team 19 Members:
 
@@ -37,7 +41,7 @@ Currently, the neural network of MelodyBot prototype is able to generate music s
 
 #### Example Audio Files
 
-![Click Here](./Example-Audio-HTML/audio.html)
+![Click Here](% https://jsannicolas.github.io/CS-426-MelodyBot/Example-Audio-HTML/audio.html %)
 
 ### Project Related Readings
 
