@@ -14,7 +14,7 @@ layout: default
 
 #### Classical Violin
 
-![1](https://jsannicolas.github.io/CS-426-MelodyBot/CS-426-MelodyBot/Example-Audio-HTML/Violin/violinSample1.mp3)
+<audio>/Example-Audio-HTML/Violin/violinSample2.mp3</audio>
 
 ![2](./Example-Audio-HTML/Violin/violinSample2.mp3)
 
