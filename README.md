@@ -34,12 +34,9 @@ Currently, the neural network of MelodyBot prototype is able to generate music s
 
 - Virtual Music - Computer Synthesis of Musical Style by David Cope (Book)
 
-- Recurrent Neural Network Regularization (Paper)
-https://arxiv.org/pdf/1409.2329.pdf
+- [Recurrent Neural Network Regularization (Paper)](https://arxiv.org/pdf/1409.2329.pdf)
 
-- Generating Sequences With Recurrent Neural Networks (Paper) 
-https://arxiv.org/pdf/1308.0850.pdf
+- [Generating Sequences With Recurrent Neural Networks (Paper)](https://arxiv.org/pdf/1308.0850.pdf)
 
-- The Unreasonable Effectiveness of Recurrent Neural Networks (Blog Post) 
-http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+- [The Unreasonable Effectiveness of Recurrent Neural Networks (Blog Post)](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
