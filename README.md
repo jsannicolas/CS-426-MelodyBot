@@ -42,7 +42,7 @@ https://jsannicolas.github.io/CS-426-MelodyBot/Example-Audio-HTML/audio.html
 
 ### Download MelodyBot
 
-<a href="/download/test.txt" target="_blank">Click Here</a>
+<a href="/CS-426-MelodyBot/download/test.txt" target="_blank">Windows</a>
 
 ### Project Related Readings
 
