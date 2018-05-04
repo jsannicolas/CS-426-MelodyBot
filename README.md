@@ -1,7 +1,4 @@
----
-layout: default
-title: MelodyBot
----
+# MelodyBot
 
 ## Team 19 Members:
 
