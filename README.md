@@ -1,6 +1,5 @@
 ---
 layout: default
-title: MelodyBot
 featured-img: /Example-Audio-HTML/Pictures/Logo.png
 ---
 
